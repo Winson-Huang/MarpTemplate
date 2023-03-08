@@ -75,7 +75,7 @@ An inline image:
 
 ![w:200 contrast:200%](note.assets/jerry.png)
 
-One page can contains multiple inline image:
+One page can contains multiple inline images:
 
 ![w:200 h:200](note.assets/tom.png)
 
@@ -144,4 +144,4 @@ right:20%;
 
 ---
 
-Above is  the tip of a substantial iceberg, try marp and explore more! 
+Above is  the tip of a substantial iceberg, try marp and VISIT https://marp.app/ to explore more! 
