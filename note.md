@@ -26,6 +26,9 @@ Use `---` to make a page.
 This is comment, only visible to lecturer.
 -->
 
+<!-- 
+Multiple comments okay.
+ -->
 ---
 # Title of a page
 
