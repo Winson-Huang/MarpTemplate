@@ -91,7 +91,7 @@ a BackGround like inline image.
 
 ---
 
-![bg left 40%](note.assets/jerry.png)
+![bg left:50% 40%](note.assets/jerry.png)
 
 This is a List
 
